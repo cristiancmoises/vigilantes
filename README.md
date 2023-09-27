@@ -25,9 +25,9 @@ Confira alguns dos serviços que estão hospedados aqui:
 *Em breve:* Cursos serão adicionados [aqui](https://x.vigilantes.cloud).
 
 # 🧑🏻‍💻 DESENVOLVIMENTO 
-[GitYeah! - GiTea Fork](https://git.vigilantes.cloud)
+OFFLINE![GitYeah! - GiTea Fork](https://git.vigilantes.cloud)
 ____________________
-[SQL - SQLITE BROWSER](https://sql.vigilantes.cloud)
+OFFLINE![SQL - SQLITE BROWSER](https://sql.vigilantes.cloud)
 
 # ✍🏻 ESCRITÓRIO 
 [Privatebin - Envio de texto,scripts e afins com timer de destruição!](https://paste.vigilantes.cloud)
@@ -36,9 +36,9 @@ ___________________
 __________________
 [Drawio - Para criação e edição de Mapas Mentais e Diagramas](https://mapa.vigilantes.cloud)
 __________________
-[LibreOffice Online - Edite documentos online!](https://docs.vigilantes.cloud)
+OFFLINE![LibreOffice Online - Edite documentos online!](https://docs.vigilantes.cloud)
 __________________________________
-[HRConverter - Excelente Conversor de Arquivos](https://docx.vigilantes.cloud)
+OFFLINE![HRConverter - Excelente Conversor de Arquivos](https://docx.vigilantes.cloud)
 __________________________________
 [Stirling PDF - Editor de PDF lotado de recursos!](https://pdf.vigilantes.cloud)
 
@@ -50,7 +50,7 @@ ______________________
 ______________________
 [Messenger - Envie mensanges de texto, markdown,arquivos, áudio e ainda com timer de destruição!](https://chat.vigilantes.cloud)
 ______________________
-[Rede Social - Melhor que tumblr e twitter!](https://social.vigilantes.cloud)
+OFFLINE![Rede Social - Melhor que tumblr e twitter!](https://social.vigilantes.cloud)
 ______________________
 # 🗣 LEIA COM ATENÇÃO!
 O gasto total com a VPS (com 4gb de ram e 30gb de armazenamento) aonde estão alocados os serviços:
