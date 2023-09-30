@@ -1,6 +1,6 @@
 # Vigilantes - Projeto livre 
-<p align="center">
-<img src="https://github.com/cristiancmoises/vigilantes/assets/86272521/a76b3d99-7565-4702-871b-3819056534b1">
+<p align="center">  
+<img src="https://github.com/cristiancmoises/vigilantes/assets/86272521/1ab934ee-942b-476d-b8c8-4edcd55d26b8">
 <p/>
 
 # Cenário atual
